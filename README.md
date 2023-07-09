@@ -22,7 +22,6 @@
 
 Για να εκτελέσετε την εφαρμογή στο Figma, ακολουθήστε τα παρακάτω βήματα:
 
-1. Ακολουθήστε το link https://www.figma.com/file/VnHb2rX519rtow1jDR1iZ3/Museum-Navigation-Ap
-p?node-id=0%3A1&t=fWHi2Xstc3YNLWYf-0
+1. Ακολουθήστε το link https://www.figma.com/file/VnHb2rX519rtow1jDR1iZ3/Museum-Navigation-App?node-id=0%3A1&t=fWHi2Xstc3YNLWYf-0
 2. Πατήστε το κουμπί Play στην πάνω και δεξιά μεριά της σελίδας.
 3. Αφού η εφαρμογή φορτωθεί στο Figma, μπορείτε να περιηγηθείτε στις διάφορες σελίδες και να αλληλεπιδράσετε με τα στοιχεία χρησιμοποιώντας το ποντίκι σας.
